@@ -1,0 +1,9 @@
+Package: com.7zo.youtubed
+Name: Youtubed
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 7zo
+Author: 7zo
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
