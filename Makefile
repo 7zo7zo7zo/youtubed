@@ -4,9 +4,9 @@ INSTALL_TARGET_PROCESSES = YouTube
 
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = Youtubed
+TWEAK_NAME = YouTubed
 
-Youtubed_FILES = Tweak.x
-Youtubed_CFLAGS = -fobjc-arc
+YouTubed_FILES = Tweak.x
+YouTubed_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
